@@ -8,8 +8,10 @@ a result of merging two subsets of  "./UCI HAR Dataset/train/X_train.txt" and ".
 From [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) we understand the meaning of all the variables 3-68. These are numbers, measurements. 
 
 1. "subject\_code"
+
 variable "subject _ code" is in format object number, ex. object 1 means object depicted as 1 in "./UCI HAR Dataset/train/subject\_train.txt"
 2. "activity _ code"
+
 variable "activity\_code "is the name of the avtivity, ex. instead of number 5 from "./UCI HAR Dataset/train/y test.txt" we have a label from fifth row in activity\_labels.txt
 3. "tBodyAcc.mean...X"
 4. "tBodyAcc.mean...Y"
